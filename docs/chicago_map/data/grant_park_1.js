@@ -1,1 +1,0 @@
-var json_grant_park_1 = {"type":"FeatureCollection","name":"grant_park_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Park Name":"Grant Park, Chicago, IL, USA","Latitude":41.876465,"Longitude":-87.621887},"geometry":{"type":"Point","coordinates":[-87.621887,41.876465]}}]}

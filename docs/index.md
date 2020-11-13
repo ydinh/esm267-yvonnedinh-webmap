@@ -1,7 +1,8 @@
 # ESM267-yvonnedinh-webmap
 
-this is a test
+This is a map that shows all the fast food restaurants within a 20 mile (0.29 degree) radius of Grant Park in Chicago, IL. 
+Data was taken from https://data.world/datafiniti/fast-food-restaurants-across-america. 
 
-<iframe src="mydemomap/index.html" height=768 width=1024></iframe>
+If you hover over the data, you can get information on the data point. 
 
-word
+<iframe src="chicagomap/index.html" height=768 width=1024></iframe>
